@@ -7,3 +7,10 @@
 
 [Design Patterns](https://refactoring.guru/ru/design-patterns)
 
+##### building:
+[jenkov.com](http://tutorials.jenkov.com/java/java-project-overview-compilation-and-execution.html)
+
+javac src/*.java -d classes
+
+java -cp classes Status1
+
